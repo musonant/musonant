@@ -5,9 +5,6 @@ I have learned that each of us was born as an MVP (Minimum Viable Product) and t
 #### SUMMARY
 Creative and efficient Software Engineer with 6 years of experience in frontend web and mobile development, cutting across various industries including Fin-tech, E-commerce, Education, Publishing, and Automotive & Software. I excel at architecting solutions to challenging problems, with an entrepreneurial desire to satisfy end users and achieve core business goals.
 
-#### STATUS
-> OPEN TO WORK
-
 #### CONNECT WITH ME
 - LinkedIn: [/musonant](https://linkedin.com/in/musonant)
 - Twitter: [@Musonant](https://twitter.com/musonant)
